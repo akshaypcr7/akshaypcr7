@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name]
 
-<!--
-**akshaypcr7/akshaypcr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a mission to build the future of **agentic AI** — systems that can reason, act, and adapt autonomously.
 
-Here are some ideas to get you started:
+🔬 Exploring the frontiers of:
+- Autonomous agents & multi-agent systems
+- LLMs + planning, memory, and tool use
+- Open-source AI infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently working with:
+- Python, LangChain, AutoGen, OpenAI API
+- Vector databases, toolchains, and orchestration
+
+🌱 Learning by building. Sharing ideas. Iterating fast.
+
+📫 Let's connect: [your-email@example.com] | [LinkedIn] | [Twitter/X]  
