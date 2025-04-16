@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 📫 Contact
 
 - **Email**: [akshaypcr7@gmail.com](mailto:akshaypcr7@gmail.com)
-- **LinkedIn**: [Insert your LinkedIn ID link here]
+- **LinkedIn**: [Akshay Pisal]
 
 ## 🎓 Education
 
@@ -23,10 +23,10 @@ When I'm not working on AI projects, I’m diving deeper into the latest researc
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, JavaScript
-- **Generative AI**: GPT-4, DALL·E, Stable Diffusion, Text-to-Image, Chatbots, Deep Learning Models
+- **Generative AI**: Text-to-Image, Chatbots, Deep Learning Models
 - **Frameworks & Libraries**: TensorFlow, PyTorch, Hugging Face, Transformers, FastAPI
 - **Data Science & Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Tools**: Docker, Git, Jupyter Notebooks, Google Colab
+- **Tools**: Git, Jupyter Notebooks, Google Colab
 - **Cloud Platforms**: AWS, Google Cloud, Azure
 
 
